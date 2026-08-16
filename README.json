@@ -33,7 +33,7 @@
             "last_commit": "2024-03-23T16:00:17Z",
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2844
+            "stars": 2843
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T08:14:48Z",
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
-            "stars": 987
+            "stars": 986
           }
         },
         {
@@ -352,7 +352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:29:06.263Z",
+    "last_updated": "2026-08-16T14:29:22.643Z",
     "original_repository": "swiftwasm/awesome-swiftwasm",
     "original_repository_sha": "a988c782f8408732de1f11aad53700686ef2c032",
     "enhanced_repository": "enhansome/enhansome-swiftwasm",

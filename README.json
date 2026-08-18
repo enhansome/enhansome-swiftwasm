@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-17T11:27:16Z",
+            "last_commit": "2026-08-18T13:10:12Z",
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
             "stars": 987
@@ -352,7 +352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:34:02.556Z",
+    "last_updated": "2026-08-18T14:39:00.115Z",
     "original_repository": "swiftwasm/awesome-swiftwasm",
     "original_repository_sha": "a988c782f8408732de1f11aad53700686ef2c032",
     "enhanced_repository": "enhansome/enhansome-swiftwasm",

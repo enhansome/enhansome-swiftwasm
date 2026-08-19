@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T19:49:45Z",
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26339
+            "stars": 26340
           }
         },
         {
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:47.429Z",
+    "last_updated": "2026-08-19T14:39:39.049Z",
     "original_repository": "swiftwasm/awesome-swiftwasm",
     "original_repository_id": 273302528,
     "original_repository_sha": "a988c782f8408732de1f11aad53700686ef2c032",

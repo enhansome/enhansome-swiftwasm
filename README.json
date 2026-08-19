@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "This project adheres to the Contributor Covenant Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to hello@swiftwasm.org.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19953044,
             "language": "C++",
             "last_commit": "2026-08-11T19:49:45Z",
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26332
+            "stars": 26339
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 148935509,
             "language": "Swift",
             "last_commit": "2024-03-23T16:00:17Z",
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2843
+            "stars": 2842
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244832006,
             "language": "Swift",
-            "last_commit": "2026-08-18T13:10:12Z",
+            "last_commit": "2026-08-19T00:30:46Z",
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
-            "stars": 987
+            "stars": 986
           }
         },
         {
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267459360,
             "language": "Swift",
             "last_commit": "2020-10-30T09:06:16Z",
             "owner": "carson-katri",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447352663,
             "language": "Swift",
             "last_commit": "2025-12-10T20:49:47Z",
             "owner": "swift-cloud",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269809709,
             "language": "Swift",
             "last_commit": "2026-07-20T00:43:09Z",
             "owner": "PureSwift",
@@ -96,7 +97,7 @@
       "title": "Libraries and frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 261237288,
             "language": "Swift",
             "last_commit": "2025-11-29T13:59:23Z",
             "owner": "swiftwasm",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97854006,
             "language": "Swift",
             "last_commit": "2026-08-15T10:48:03Z",
             "owner": "swiftwasm",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 327926206,
             "language": "Swift",
             "last_commit": "2021-01-10T16:49:01Z",
             "owner": "helje5",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304093464,
             "language": "Swift",
             "last_commit": "2023-03-30T13:02:45Z",
             "owner": "swiftwasm",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323205286,
             "language": "Swift",
             "last_commit": "2021-03-31T11:36:23Z",
             "owner": "swiftwasm",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271963945,
             "language": "Swift",
             "last_commit": "2023-01-07T19:13:53Z",
             "owner": "Apodini",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268649871,
             "language": "JavaScript",
             "last_commit": "2022-06-25T13:12:59Z",
             "owner": "carson-katri",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259559661,
             "language": "JavaScript",
             "last_commit": "2023-01-07T22:07:20Z",
             "owner": "swiftwasm",
@@ -214,7 +223,7 @@
       "title": "Developer tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -223,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253578515,
             "language": "Swift",
             "last_commit": "2021-10-04T14:42:26Z",
             "owner": "kateinoigakukun",
@@ -237,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318514909,
             "language": "Swift",
             "last_commit": "2021-01-30T13:54:57Z",
             "owner": "nerdsupremacist",
@@ -251,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307178244,
             "language": "Swift",
             "last_commit": "2020-12-09T17:57:40Z",
             "owner": "johngarrett",
@@ -265,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259823657,
             "language": "Swift",
             "last_commit": "2023-01-07T17:40:28Z",
             "owner": "swiftwasm",
@@ -279,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304884942,
             "language": "Go",
             "last_commit": "2020-11-30T14:43:08Z",
             "owner": "hassan-shahbazi",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269059816,
             "language": "JavaScript",
             "last_commit": "2023-01-09T12:28:23Z",
             "owner": "1amageek",
@@ -307,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318625317,
             "language": "Swift",
             "last_commit": "2020-12-13T22:13:08Z",
             "owner": "johngarrett",
@@ -321,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255485119,
             "language": "Swift",
             "last_commit": "2021-06-08T03:01:26Z",
             "owner": "fcanas",
@@ -335,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 259658878,
             "language": "JavaScript",
             "last_commit": "2022-02-13T18:53:55Z",
             "owner": "swiftwasm",
@@ -344,16 +362,12 @@
         }
       ],
       "title": "Open-source projects built with SwiftWasm"
-    },
-    {
-      "description": "Become a gold or platinum sponsor and contact maintainers to add your logo on our README on Github with a link to your site.",
-      "items": [],
-      "title": "Sponsoring"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:39:00.115Z",
+    "last_updated": "2026-08-19T12:53:47.429Z",
     "original_repository": "swiftwasm/awesome-swiftwasm",
+    "original_repository_id": 273302528,
     "original_repository_sha": "a988c782f8408732de1f11aad53700686ef2c032",
     "enhanced_repository": "enhansome/enhansome-swiftwasm",
     "enhanced_repository_description": null,

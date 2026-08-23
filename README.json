@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T19:49:45Z",
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26394
+            "stars": 26400
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-22T13:53:20Z",
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
-            "stars": 985
+            "stars": 984
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-15T10:48:03Z",
             "owner": "swiftwasm",
             "repo": "WasmKit",
-            "stars": 489
+            "stars": 488
           }
         },
         {
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:27:59.246Z",
+    "last_updated": "2026-08-23T14:29:06.656Z",
     "original_repository": "swiftwasm/awesome-swiftwasm",
     "original_repository_id": 273302528,
     "original_repository_sha": "a988c782f8408732de1f11aad53700686ef2c032",

@@ -20,7 +20,7 @@ unacceptable behavior to <hello@swiftwasm.org>.
 
 ## Libraries and frameworks
 
-* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,400 | 🐛 266 | 🌐 C++ | 📅 2026-08-11 - Memory Efficient Serialization Library.
+* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,406 | 🐛 266 | 🌐 C++ | 📅 2026-08-11 - Memory Efficient Serialization Library.
 * [Tokamak](https://github.com/swiftwasm/Tokamak) ⚠️ Archived - SwiftUI-compatible framework for building browser apps with WebAssembly.
 * [JavaScriptKit](https://github.com/kateinoigakukun/JavaScriptKit/) ⭐ 984 | 🐛 46 | 🌐 Swift | 📅 2026-08-22 - Swift framework to interact with JavaScript through WebAssembly.
 * [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) ⭐ 425 | 🐛 2 | 🌐 Swift | 📅 2020-10-30 - SwiftUI with support for WebAssembly.
@@ -33,7 +33,7 @@ unacceptable behavior to <hello@swiftwasm.org>.
 * [WAKit](https://github.com/akkyie/WAKit) ⭐ 488 | 🐛 21 | 🌐 Swift | 📅 2026-08-15 - A WebAssembly Runtime written in Swift.
 * [SwiftyWasmer](https://github.com/AlwaysRightInstitute/SwiftyWasmer) ⚠️ Archived - A Swift API for the Wasmer WebAssembly Runtime.
 * [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) ⭐ 35 | 🐛 1 | 🌐 Swift | 📅 2023-03-30 - A Swift package for reading, writing, and transformation of Wasm binaries.
-* [wamr-swift](https://github.com/swiftwasm/wamr-swift/) ⭐ 34 | 🐛 1 | 🌐 Swift | 📅 2021-03-31 - Swift bindings for [WebAssembly Micro Runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,072 | 🐛 603 | 🌐 C | 📅 2026-08-22.
+* [wamr-swift](https://github.com/swiftwasm/wamr-swift/) ⭐ 34 | 🐛 1 | 🌐 Swift | 📅 2021-03-31 - Swift bindings for [WebAssembly Micro Runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,071 | 🐛 605 | 🌐 C | 📅 2026-08-22.
 * [webidl2swift](https://github.com/Apodini/webidl2swift) ⭐ 12 | 🐛 7 | 🌐 Swift | 📅 2023-01-07 - Generate Swift bridging code from Web IDL files.
 * [swiftwebui-scripts](https://github.com/carson-katri/swiftwebui-scripts) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-25 - Scripts to make working with SwiftWebUI and SwiftWasm easier.
 * [swift-webpack-plugin](https://github.com/swiftwasm/swift-webpack-plugin) ⭐ 6 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-07 - [webpack.js](https://webpack.js.org/) plugin for SwiftWasm.
@@ -61,4 +61,4 @@ unacceptable behavior to <hello@swiftwasm.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

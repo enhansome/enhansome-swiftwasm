@@ -15,8 +15,9 @@
             "last_commit": "2026-08-11T19:49:45Z",
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26411
-          }
+            "stars": 26414
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "TokamakUI",
             "repo": "Tokamak",
             "stars": 2844
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
             "stars": 985
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "carson-katri",
             "repo": "SwiftWebUI",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "swift-cloud",
             "repo": "Compute",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "PureSwift",
             "repo": "BluetoothWeb",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         }
       ],
       "title": "Libraries and frameworks"
@@ -112,7 +118,8 @@
             "owner": "swiftwasm",
             "repo": "carton",
             "stars": 498
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "swiftwasm",
             "repo": "WasmKit",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "helje5",
             "repo": "SwiftyWasmer",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "swiftwasm",
             "repo": "WasmTransformer",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "swiftwasm",
             "repo": "wamr-swift",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Apodini",
             "repo": "webidl2swift",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "carson-katri",
             "repo": "swiftwebui-scripts",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "swiftwasm",
             "repo": "swift-webpack-plugin",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         }
       ],
       "title": "Developer tools"
@@ -238,7 +252,8 @@
             "owner": "kateinoigakukun",
             "repo": "swiftwasm-game-of-life",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "nerdsupremacist",
             "repo": "memes",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "johngarrett",
             "repo": "swal",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "swiftwasm",
             "repo": "swift-web-github-example",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "hassan-shahbazi",
             "repo": "swiftwasm-go",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "1amageek",
             "repo": "SwiftWebUI-WASM-CFs",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "johngarrett",
             "repo": "tic-tac-toe",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "fcanas",
             "repo": "ogol",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         },
         {
           "node_type": "item",
@@ -358,14 +380,15 @@
             "owner": "swiftwasm",
             "repo": "swift-webpack-template",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
         }
       ],
       "title": "Open-source projects built with SwiftWasm"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:41:20.639Z",
+    "last_updated": "2026-08-28T23:29:53.013Z",
     "original_repository_info": {
       "archived": false,
       "id": 273302528,

@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlatBuffers: Memory Efficient Serialization Library",
+            "homepage": "https://flatbuffers.dev/",
             "id": 19953044,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T19:49:45Z",
+            "open_issues": 271,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26414
+            "stars": 26414,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "c-sharp",
+              "cross-platform",
+              "flatbuffers",
+              "go",
+              "grpc",
+              "java",
+              "javascript",
+              "json-parser",
+              "marshalling",
+              "mmap",
+              "protobuf",
+              "python",
+              "rpc",
+              "rust",
+              "serialization",
+              "serialization-library",
+              "typescript",
+              "zero-copy"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -26,12 +52,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms",
+            "homepage": null,
             "id": 148935509,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-23T16:00:17Z",
+            "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2844
+            "stars": 2843,
+            "topics": [
+              "data-binding",
+              "dom",
+              "hacktoberfest",
+              "swift",
+              "swiftui",
+              "swiftwasm",
+              "ui-components",
+              "wasi",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -42,12 +83,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift framework to interact with JavaScript through WebAssembly.",
+            "homepage": "https://swiftpackageindex.com/swiftwasm/JavaScriptKit/documentation/javascriptkit",
             "id": 244832006,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:53:20Z",
+            "open_issues": 47,
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
-            "stars": 985
+            "stars": 985,
+            "topics": [
+              "javascript",
+              "swift",
+              "swiftwasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -58,12 +109,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftUI with support for WebAssembly",
+            "homepage": "http://www.alwaysrightinstitute.com/swiftwebui/",
             "id": 267459360,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-30T09:06:16Z",
+            "open_issues": 2,
             "owner": "carson-katri",
             "repo": "SwiftWebUI",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "swiftui",
+              "swiftwasm",
+              "swiftwebui",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -74,12 +135,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift runtime for Fastly Compute@Edge",
+            "homepage": "https://swiftpackageindex.com/swift-cloud/Compute/documentation",
             "id": 447352663,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-12-10T20:49:47Z",
+            "open_issues": 1,
             "owner": "swift-cloud",
             "repo": "Compute",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "fastly",
+              "swift",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -90,12 +160,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift library for Bluetooth Web API (WebAssembly)",
+            "homepage": "https://pureswift.github.io/BluetoothWeb",
             "id": 269809709,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-20T00:43:09Z",
+            "open_issues": 0,
             "owner": "PureSwift",
             "repo": "BluetoothWeb",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bluetooth",
+              "swift",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         }
@@ -112,12 +191,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED] Use the new SwiftPM Plugin from JavaScriptKit instead. See https://forums.swift.org/t/deprecating-swiftwasm-carton-in-favor-of-javascriptkits-swiftpm-plugin/83460",
+            "homepage": null,
             "id": 261237288,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-29T13:59:23Z",
+            "open_issues": 39,
             "owner": "swiftwasm",
             "repo": "carton",
-            "stars": 498
+            "stars": 498,
+            "topics": [
+              "bundler",
+              "developer-tools",
+              "swift",
+              "swiftwasm",
+              "test-runner",
+              "wasm",
+              "watcher",
+              "webassembly",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -128,12 +222,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Runtime written in Swift",
+            "homepage": "https://swiftpackageindex.com/swiftwasm/WasmKit/main/documentation/wasmkit",
             "id": 97854006,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:06:25Z",
+            "open_issues": 21,
             "owner": "swiftwasm",
             "repo": "WasmKit",
-            "stars": 489
+            "stars": 489,
+            "topics": [
+              "swift",
+              "swiftwasm",
+              "webassembly",
+              "webassembly-runtime"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -144,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Swift API for the Wasmer WebAssembly Runtime",
+            "homepage": null,
             "id": 327926206,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-01-10T16:49:01Z",
+            "open_issues": 3,
             "owner": "helje5",
             "repo": "SwiftyWasmer",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -160,12 +269,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swift package for reading, writing, and transformation of WebAssembly binaries",
+            "homepage": null,
             "id": 304093464,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-30T13:02:45Z",
+            "open_issues": 1,
             "owner": "swiftwasm",
             "repo": "WasmTransformer",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "developer-tools",
+              "swiftwasm",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -176,12 +295,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift WebAssembly runtime powered by WAMR",
+            "homepage": null,
             "id": 323205286,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-31T11:36:23Z",
+            "open_issues": 1,
             "owner": "swiftwasm",
             "repo": "wamr-swift",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "swift",
+              "swiftwasm",
+              "wasi",
+              "wasm",
+              "webassembly",
+              "webassembly-runtime"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -192,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 271963945,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-01-07T19:13:53Z",
+            "open_issues": 7,
             "owner": "Apodini",
             "repo": "webidl2swift",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -208,12 +344,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for working with SwiftWebUI & SwiftWASM",
+            "homepage": null,
             "id": 268649871,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-06-25T13:12:59Z",
+            "open_issues": 1,
             "owner": "carson-katri",
             "repo": "swiftwebui-scripts",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "nodejs",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -224,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "webpack plugin for Swift",
+            "homepage": null,
             "id": 259559661,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T22:07:20Z",
+            "open_issues": 8,
             "owner": "swiftwasm",
             "repo": "swift-webpack-plugin",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         }
@@ -246,12 +395,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo project of Swift on Web App",
+            "homepage": "https://kateinoigakukun.github.io/swiftwasm-game-of-life/",
             "id": 253578515,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-10-04T14:42:26Z",
+            "open_issues": 1,
             "owner": "kateinoigakukun",
             "repo": "swiftwasm-game-of-life",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "swift",
+              "swiftwasm",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -262,12 +420,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An online Multi-Player Meme Party Game written in Swift ",
+            "homepage": "https://memes.quintero.io",
             "id": 318514909,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-01-30T13:54:57Z",
+            "open_issues": 4,
             "owner": "nerdsupremacist",
             "repo": "memes",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "server-side-swift",
+              "swift",
+              "swiftui",
+              "swiftwasm",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -278,12 +447,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift, Wasm, and Algorithms",
+            "homepage": null,
             "id": 307178244,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-12-09T17:57:40Z",
+            "open_issues": 0,
             "owner": "johngarrett",
             "repo": "swal",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "algorithms",
+              "swift",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -294,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo project of SwiftWasm app using webpack",
+            "homepage": "https://swiftwasm.github.io/swift-web-github-example/",
             "id": 259823657,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-01-07T17:40:28Z",
+            "open_issues": 7,
             "owner": "swiftwasm",
             "repo": "swift-web-github-example",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -310,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Web Assembly application with Go runtime and Swift binary",
+            "homepage": null,
             "id": 304884942,
             "language": "Go",
+            "license": null,
             "last_commit": "2020-11-30T14:43:08Z",
+            "open_issues": 0,
             "owner": "hassan-shahbazi",
             "repo": "swiftwasm-go",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -326,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 269059816,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-09T12:28:23Z",
+            "open_issues": 20,
             "owner": "1amageek",
             "repo": "SwiftWebUI-WASM-CFs",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -342,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 318625317,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-12-13T22:13:08Z",
+            "open_issues": 1,
             "owner": "johngarrett",
             "repo": "tic-tac-toe",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -358,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 255485119,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-06-08T03:01:26Z",
+            "open_issues": 0,
             "owner": "fcanas",
             "repo": "ogol",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         },
@@ -374,12 +577,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 259658878,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-13T18:53:55Z",
+            "open_issues": 1,
             "owner": "swiftwasm",
             "repo": "swift-webpack-template",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
         }
@@ -388,15 +596,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:29:53.013Z",
+    "last_updated": "2026-08-29T04:46:33.365Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A community-driven curated list of SwiftWasm projects and content",
+      "homepage": null,
       "id": 273302528,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-11-29T14:02:03Z",
+      "open_issues": 1,
       "owner": "swiftwasm",
       "repo": "awesome-swiftwasm",
-      "stars": 298
+      "stars": 298,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "swift",
+        "swiftwasm",
+        "webassembly"
+      ]
     },
     "original_repository_sha": "a988c782f8408732de1f11aad53700686ef2c032",
     "enhanced_repository": "enhansome/enhansome-swiftwasm",

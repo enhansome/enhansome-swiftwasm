@@ -19,7 +19,7 @@
             "open_issues": 272,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26420,
+            "stars": 26421,
             "topics": [
               "c",
               "c-plus-plus",
@@ -228,10 +228,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-27T04:06:25Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "swiftwasm",
             "repo": "WasmKit",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "swift",
               "swiftwasm",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:00:06.458Z",
+    "last_updated": "2026-08-31T19:54:10.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",

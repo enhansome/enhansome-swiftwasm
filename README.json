@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-11T19:49:45Z",
-            "open_issues": 272,
+            "open_issues": 273,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26421,
+            "stars": 26424,
             "topics": [
               "c",
               "c-plus-plus",
@@ -61,7 +61,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2843,
+            "stars": 2842,
             "topics": [
               "data-binding",
               "dom",
@@ -89,10 +89,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-22T13:53:20Z",
-            "open_issues": 47,
+            "open_issues": 46,
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
-            "stars": 985,
+            "stars": 984,
             "topics": [
               "javascript",
               "swift",
@@ -118,7 +118,7 @@
             "open_issues": 2,
             "owner": "carson-katri",
             "repo": "SwiftWebUI",
-            "stars": 425,
+            "stars": 424,
             "topics": [
               "swiftui",
               "swiftwasm",
@@ -200,7 +200,7 @@
             "open_issues": 39,
             "owner": "swiftwasm",
             "repo": "carton",
-            "stars": 498,
+            "stars": 497,
             "topics": [
               "bundler",
               "developer-tools",
@@ -231,7 +231,7 @@
             "open_issues": 22,
             "owner": "swiftwasm",
             "repo": "WasmKit",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "swift",
               "swiftwasm",
@@ -429,7 +429,7 @@
             "open_issues": 4,
             "owner": "nerdsupremacist",
             "repo": "memes",
-            "stars": 73,
+            "stars": 72,
             "topics": [
               "server-side-swift",
               "swift",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:54:10.025Z",
+    "last_updated": "2026-09-01T17:45:43.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",
@@ -608,7 +608,7 @@
       "open_issues": 1,
       "owner": "swiftwasm",
       "repo": "awesome-swiftwasm",
-      "stars": 298,
+      "stars": 297,
       "topics": [
         "awesome",
         "awesome-list",

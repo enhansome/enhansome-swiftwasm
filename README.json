@@ -92,7 +92,7 @@
             "open_issues": 48,
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
-            "stars": 984,
+            "stars": 983,
             "topics": [
               "javascript",
               "swift",
@@ -227,7 +227,7 @@
             "id": 97854006,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-04T16:56:55Z",
+            "last_commit": "2026-09-05T00:38:43Z",
             "open_issues": 22,
             "owner": "swiftwasm",
             "repo": "WasmKit",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:31:30.209Z",
+    "last_updated": "2026-09-05T16:42:21.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",

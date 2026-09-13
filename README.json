@@ -19,7 +19,7 @@
             "open_issues": 286,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26453,
+            "stars": 26456,
             "topics": [
               "c",
               "c-plus-plus",
@@ -61,7 +61,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2839,
+            "stars": 2838,
             "topics": [
               "data-binding",
               "dom",
@@ -186,6 +186,32 @@
       "items": [
         {
           "node_type": "item",
+          "title": "WAKit",
+          "description": "A WebAssembly Runtime written in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "WebAssembly Runtime written in Swift",
+            "homepage": "https://swiftpackageindex.com/swiftwasm/WasmKit/main/documentation/wasmkit",
+            "id": 97854006,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-09-13T14:00:05Z",
+            "open_issues": 21,
+            "owner": "swiftwasm",
+            "repo": "WasmKit",
+            "stars": 498,
+            "topics": [
+              "swift",
+              "swiftwasm",
+              "webassembly",
+              "webassembly-runtime"
+            ]
+          },
+          "first_seen": "2026-08-28T23:29:53.013Z"
+        },
+        {
+          "node_type": "item",
           "title": "carton",
           "description": "Watcher, bundler, and test runner for your SwiftWasm apps.",
           "children": [],
@@ -211,32 +237,6 @@
               "watcher",
               "webassembly",
               "webpack"
-            ]
-          },
-          "first_seen": "2026-08-28T23:29:53.013Z"
-        },
-        {
-          "node_type": "item",
-          "title": "WAKit",
-          "description": "A WebAssembly Runtime written in Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "WebAssembly Runtime written in Swift",
-            "homepage": "https://swiftpackageindex.com/swiftwasm/WasmKit/main/documentation/wasmkit",
-            "id": 97854006,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2026-09-12T08:52:29Z",
-            "open_issues": 21,
-            "owner": "swiftwasm",
-            "repo": "WasmKit",
-            "stars": 497,
-            "topics": [
-              "swift",
-              "swiftwasm",
-              "webassembly",
-              "webassembly-runtime"
             ]
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:53:23.423Z",
+    "last_updated": "2026-09-13T17:21:48.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",

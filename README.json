@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T18:02:25Z",
-            "open_issues": 303,
+            "open_issues": 305,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26473,
+            "stars": 26475,
             "topics": [
               "c",
               "c-plus-plus",
@@ -61,7 +61,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2838,
+            "stars": 2837,
             "topics": [
               "data-binding",
               "dom",
@@ -196,11 +196,11 @@
             "id": 97854006,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-16T13:37:10Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-17T12:12:47Z",
+            "open_issues": 21,
             "owner": "swiftwasm",
             "repo": "WasmKit",
-            "stars": 500,
+            "stars": 501,
             "topics": [
               "swift",
               "swiftwasm",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:04:12.058Z",
+    "last_updated": "2026-09-17T18:04:45.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",

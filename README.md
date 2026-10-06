@@ -20,7 +20,7 @@ unacceptable behavior to <hello@swiftwasm.org>.
 
 ## Libraries and frameworks
 
-* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,552 | 🐛 321 | 🌐 C++ | 📅 2026-09-14 - Memory Efficient Serialization Library.
+* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,552 | 🐛 325 | 🌐 C++ | 📅 2026-09-14 - Memory Efficient Serialization Library.
 * [Tokamak](https://github.com/swiftwasm/Tokamak) ⚠️ Archived - SwiftUI-compatible framework for building browser apps with WebAssembly.
 * [JavaScriptKit](https://github.com/kateinoigakukun/JavaScriptKit/) ⭐ 987 | 🐛 48 | 🌐 Swift | 📅 2026-09-26 - Swift framework to interact with JavaScript through WebAssembly.
 * [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) ⭐ 424 | 🐛 2 | 🌐 Swift | 📅 2020-10-30 - SwiftUI with support for WebAssembly.
@@ -61,4 +61,4 @@ unacceptable behavior to <hello@swiftwasm.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

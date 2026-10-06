@@ -29,7 +29,7 @@ unacceptable behavior to <hello@swiftwasm.org>.
 
 ## Developer tools
 
-* [WAKit](https://github.com/akkyie/WAKit) ⭐ 507 | 🐛 19 | 🌐 Swift | 📅 2026-10-05 - A WebAssembly Runtime written in Swift.
+* [WAKit](https://github.com/akkyie/WAKit) ⭐ 507 | 🐛 20 | 🌐 Swift | 📅 2026-10-06 - A WebAssembly Runtime written in Swift.
 * [carton](https://github.com/swiftwasm/carton) ⚠️ Archived - Watcher, bundler, and test runner for your SwiftWasm apps.
 * [SwiftyWasmer](https://github.com/AlwaysRightInstitute/SwiftyWasmer) ⚠️ Archived - A Swift API for the Wasmer WebAssembly Runtime.
 * [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) ⭐ 35 | 🐛 1 | 🌐 Swift | 📅 2023-03-30 - A Swift package for reading, writing, and transformation of Wasm binaries.

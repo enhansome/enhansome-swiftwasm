@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T18:02:25Z",
-            "open_issues": 326,
+            "open_issues": 327,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26557,
+            "stars": 26560,
             "topics": [
               "c",
               "c-plus-plus",
@@ -196,11 +196,11 @@
             "id": 97854006,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-07T12:48:32Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-10T08:52:41Z",
+            "open_issues": 18,
             "owner": "swiftwasm",
             "repo": "WasmKit",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "swift",
               "swiftwasm",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:22:46.156Z",
+    "last_updated": "2026-10-10T18:23:14.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",

@@ -19,7 +19,7 @@
             "open_issues": 336,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26571,
+            "stars": 26573,
             "topics": [
               "c",
               "c-plus-plus",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:26:28.930Z",
+    "last_updated": "2026-10-23T18:12:37.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",

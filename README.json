@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T22:19:32Z",
-            "open_issues": 341,
+            "open_issues": 342,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26599,
+            "stars": 26600,
             "topics": [
               "c",
               "c-plus-plus",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:23:23.148Z",
+    "last_updated": "2026-11-01T18:49:05.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",
@@ -608,7 +608,7 @@
       "open_issues": 2,
       "owner": "swiftwasm",
       "repo": "awesome-swiftwasm",
-      "stars": 298,
+      "stars": 299,
       "topics": [
         "awesome",
         "awesome-list",

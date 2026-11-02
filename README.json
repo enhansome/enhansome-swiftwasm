@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T22:19:32Z",
-            "open_issues": 342,
+            "open_issues": 337,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26600,
+            "stars": 26606,
             "topics": [
               "c",
               "c-plus-plus",
@@ -200,7 +200,7 @@
             "open_issues": 20,
             "owner": "swiftwasm",
             "repo": "WasmKit",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "swift",
               "swiftwasm",
@@ -590,13 +590,43 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:53.013Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Siday",
+          "description": "A retro-music player supporting almost all retro and tracker formats at very high fidelity. Processing, chip emulation, visualisers and logic is all SwiftWasm, using ElementaryUI as a front-end. Project repo is here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CLI and Web-based chiptune and tracker player in Swift",
+            "homepage": "https://ptsochantaris.github.io/siday/",
+            "id": 1407971979,
+            "language": "Swift",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-02T14:35:54Z",
+            "open_issues": 0,
+            "owner": "ptsochantaris",
+            "repo": "siday",
+            "stars": 0,
+            "topics": [
+              "chiptune-player",
+              "chiptunes",
+              "commodore-64",
+              "elementary-ui",
+              "macos",
+              "swift",
+              "wasm",
+              "zx-spectrum"
+            ]
+          },
+          "first_seen": "2026-11-02T22:40:16.155Z"
         }
       ],
       "title": "Open-source projects built with SwiftWasm"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:49:05.046Z",
+    "last_updated": "2026-11-02T22:40:16.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",
@@ -604,8 +634,8 @@
       "id": 273302528,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2025-11-29T14:02:03Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-02T08:15:22Z",
+      "open_issues": 0,
       "owner": "swiftwasm",
       "repo": "awesome-swiftwasm",
       "stars": 299,
@@ -617,7 +647,7 @@
         "webassembly"
       ]
     },
-    "original_repository_sha": "a988c782f8408732de1f11aad53700686ef2c032",
+    "original_repository_sha": "bcfd76fce9d01bb4d33656a04735deb655d1b202",
     "enhanced_repository": "enhansome/enhansome-swiftwasm",
     "enhanced_repository_description": null,
     "title": "awesome-swiftwasm with stars"

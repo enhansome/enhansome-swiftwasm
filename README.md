@@ -20,20 +20,20 @@ unacceptable behavior to <hello@swiftwasm.org>.
 
 ## Libraries and frameworks
 
-* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,645 | 🐛 340 | 🌐 C++ | 📅 2026-11-13 - Memory Efficient Serialization Library.
+* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,649 | 🐛 343 | 🌐 C++ | 📅 2026-11-13 - Memory Efficient Serialization Library.
 * [Tokamak](https://github.com/swiftwasm/Tokamak) ⚠️ Archived - SwiftUI-compatible framework for building browser apps with WebAssembly.
-* [JavaScriptKit](https://github.com/kateinoigakukun/JavaScriptKit/) ⭐ 993 | 🐛 46 | 🌐 Swift | 📅 2026-11-13 - Swift framework to interact with JavaScript through WebAssembly.
+* [JavaScriptKit](https://github.com/kateinoigakukun/JavaScriptKit/) ⭐ 993 | 🐛 48 | 🌐 Swift | 📅 2026-11-18 - Swift framework to interact with JavaScript through WebAssembly.
 * [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) ⭐ 424 | 🐛 2 | 🌐 Swift | 📅 2020-10-30 - SwiftUI with support for WebAssembly.
 * [Compute](https://github.com/AndrewBarba/swift-compute-runtime) ⭐ 94 | 🐛 1 | 🌐 Swift | 📅 2025-12-10 - Swift runtime for building server side applications on [Fastly Compute@Edge](https://www.fastly.com/products/edge-compute/serverless).
 * [BluetoothWeb](https://github.com/PureSwift/BluetoothWeb) ⭐ 18 | 🐛 0 | 🌐 Swift | 📅 2026-07-20 - Swift framework to interact with [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API) through WebAssembly.
 
 ## Developer tools
 
-* [WAKit](https://github.com/akkyie/WAKit) ⭐ 523 | 🐛 22 | 🌐 Swift | 📅 2026-11-17 - A WebAssembly Runtime written in Swift.
+* [WAKit](https://github.com/akkyie/WAKit) ⭐ 523 | 🐛 23 | 🌐 Swift | 📅 2026-11-18 - A WebAssembly Runtime written in Swift.
 * [carton](https://github.com/swiftwasm/carton) ⚠️ Archived - Watcher, bundler, and test runner for your SwiftWasm apps.
 * [SwiftyWasmer](https://github.com/AlwaysRightInstitute/SwiftyWasmer) ⚠️ Archived - A Swift API for the Wasmer WebAssembly Runtime.
 * [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) ⭐ 35 | 🐛 1 | 🌐 Swift | 📅 2023-03-30 - A Swift package for reading, writing, and transformation of Wasm binaries.
-* [wamr-swift](https://github.com/swiftwasm/wamr-swift/) ⭐ 34 | 🐛 1 | 🌐 Swift | 📅 2021-03-31 - Swift bindings for [WebAssembly Micro Runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,218 | 🐛 665 | 🌐 C | 📅 2026-11-17.
+* [wamr-swift](https://github.com/swiftwasm/wamr-swift/) ⭐ 34 | 🐛 1 | 🌐 Swift | 📅 2021-03-31 - Swift bindings for [WebAssembly Micro Runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,221 | 🐛 658 | 🌐 C | 📅 2026-11-18.
 * [webidl2swift](https://github.com/Apodini/webidl2swift) ⭐ 12 | 🐛 7 | 🌐 Swift | 📅 2023-01-07 - Generate Swift bridging code from Web IDL files.
 * [swiftwebui-scripts](https://github.com/carson-katri/swiftwebui-scripts) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-25 - Scripts to make working with SwiftWebUI and SwiftWasm easier.
 * [swift-webpack-plugin](https://github.com/swiftwasm/swift-webpack-plugin) ⭐ 6 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-07 - [webpack.js](https://webpack.js.org/) plugin for SwiftWasm.
@@ -62,4 +62,4 @@ unacceptable behavior to <hello@swiftwasm.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

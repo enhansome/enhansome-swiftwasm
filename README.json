@@ -15,11 +15,11 @@
             "id": 19953044,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T23:22:34Z",
-            "open_issues": 338,
+            "last_commit": "2026-11-23T13:45:02Z",
+            "open_issues": 344,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26657,
+            "stars": 26658,
             "topics": [
               "c",
               "c-plus-plus",
@@ -61,7 +61,7 @@
             "open_issues": 127,
             "owner": "TokamakUI",
             "repo": "Tokamak",
-            "stars": 2833,
+            "stars": 2832,
             "topics": [
               "data-binding",
               "dom",
@@ -89,10 +89,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-11-18T12:19:19Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "swiftwasm",
             "repo": "JavaScriptKit",
-            "stars": 992,
+            "stars": 993,
             "topics": [
               "javascript",
               "swift",
@@ -196,7 +196,7 @@
             "id": 97854006,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-21T23:17:18Z",
+            "last_commit": "2026-11-23T16:12:13Z",
             "open_issues": 26,
             "owner": "swiftwasm",
             "repo": "WasmKit",
@@ -226,7 +226,7 @@
             "open_issues": 39,
             "owner": "swiftwasm",
             "repo": "carton",
-            "stars": 497,
+            "stars": 496,
             "topics": [
               "bundler",
               "developer-tools",
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:38:14.422Z",
+    "last_updated": "2026-11-24T01:33:53.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-driven curated list of SwiftWasm projects and content",
